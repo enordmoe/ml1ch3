@@ -9,8 +9,6 @@ format:
       fig-height: 4
       fig-width: 9
 editor: visual
-execute: 
-  eval: false
 ---
 
 ```{r}
